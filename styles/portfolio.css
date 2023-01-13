@@ -154,3 +154,47 @@ main{
     border-radius: 5px;
     padding: 30px;
 }
+.section-title{
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 113px;
+
+}
+.resume-container{
+    display: flex;
+    gap: 71px;
+}
+.resume-title{
+    color: #474747 ;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom:13px ;
+}
+.resume-item-title{
+    color:#474747 ;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+.resume-item-subtitle{
+    color: #757575;
+    font-weight:600 ;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.resume-item-description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
+.resume-item{
+    margin-top:30px ;
+    margin-bottom: 30px;
+}
+.resume-button{
+    margin-top:50px ;
+    text-align: center;
+}
